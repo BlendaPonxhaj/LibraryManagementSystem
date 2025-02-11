@@ -4,7 +4,7 @@
 
 using namespace std;
 void FileHandler::RuajLibrat(string books[], int size) {
-	ofstream file("books.txt");
+	ofstream file("../books.txt");
 	if (file) {
 		for (int i = 0; i < size; i++) {
 			file << books[i] << endl;
