@@ -1,3 +1,4 @@
-sd
-df
-z
+Clean Code
+Atomic Habits
+The Pragmatic Programmer
+Deep Work
