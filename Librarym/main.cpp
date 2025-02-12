@@ -4,13 +4,26 @@
 using namespace std;
 
 int main() {
-	string books[] = { "Book 1","Book 2","Book 3" };
-	int size = 3;
+    int size;
+    cout << "Sa libra do te ruani? ";
+    cin >> size;
 
-	FileHandler handler;
-	handler.RuajLibrat(books, size);
+    cin.ignore(); // Clear any leftover newline character
 
-	cout << "Librat jane ruajtur!\n";
+    string* books = new string[size]; // Dynamic allocation
 
-	return 0;
+    cout << "Shkruani titujt e librave:\n";
+    for (int i = 0; i < size; i++) {
+        cout << "Libri " << i + 1 << ": ";
+        cin >> books[i]; // Reads single-word titles only
+    }
+
+    FileHandler handler;
+    handler.RuajLibrat(books, size);
+
+    cout << "Librat jane ruajtur!\n";
+
+    delete[] books; // Free allocated memory
+
+    return 0;
 }
