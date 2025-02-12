@@ -11,7 +11,7 @@ struct FileHandler {
 	//Overwrites a file with new data
 
 	int loadFromFile(const string& filename, string data[], int maxSize); 
-	//Reads Data from a file into an array
+	//Reads data from a file into an array
 
 	void appendToFile(const string& filename, const string& newData); 
 	//Adds a new line without deleting old content
