@@ -10,12 +10,12 @@ int main() {
 
     cin.ignore(); // Clear any leftover newline character
 
-    string* books = new string[size]; // Dynamic allocation
+    string* books = new string[size]; 
 
     cout << "Shkruani titujt e librave:\n";
     for (int i = 0; i < size; i++) {
         cout << "Libri " << i + 1 << ": ";
-        cin >> books[i]; // Reads single-word titles only
+        cin >> books[i]; 
     }
 
     FileHandler handler;
@@ -23,7 +23,7 @@ int main() {
 
     cout << "Librat jane ruajtur!\n";
 
-    delete[] books; // Free allocated memory
+    delete[] books; 
 
     return 0;
 }
