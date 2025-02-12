@@ -2,3 +2,5 @@ Clean Code
 Atomic Habits
 The Pragmatic Programmer
 Deep Work
+Refactoring: Improving the Design of Existing Code
+Design Patterns: Elements of Reusable Object-Oriented Software
