@@ -127,11 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Library.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="FileHandler.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="FileHandler.h" />
+    <ClInclude Include="Library.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include=".gitignore" />
