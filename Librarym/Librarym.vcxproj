@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="borrrowing.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="FileHandler.cpp" />
   </ItemGroup>
