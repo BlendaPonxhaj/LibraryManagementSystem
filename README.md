@@ -53,7 +53,7 @@ If you are not part of the team:
 
 ```sh git clone https://github.com/Diona-coder1/LibraryManagementSystem.git
 
-## 🎓 Acknowledgment & Thank You
+🎓 Acknowledgment & Thank You
 
 We would like to express our sincere gratitude to **Professor Besmir Sejdiu** for their guidance and
 invaluable insights. This project has been an excellent oppurtunity for us to apply our **C++ programming skills**
