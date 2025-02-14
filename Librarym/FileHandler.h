@@ -13,9 +13,4 @@ struct FileHandler {
 	int loadFromFile(const string& filename, string data[], int maxSize); 
 	//Reads data from a file into an array
 
-	void appendToFile(const string& filename, const string& newData); 
-	//Adds a new line without deleting old content
-
-	bool fileExists(const string& filename); 
-	//Checks if a file is present
 };
