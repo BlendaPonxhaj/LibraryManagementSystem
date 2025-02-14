@@ -51,7 +51,7 @@ If you are not part of the team:
 2. Open a terminal.
 3. Clone the repository:
 
-```sh git clone https://github.com/Diona-coder1/LibraryManagementSystem.git
+git clone https://github.com/Diona-coder1/LibraryManagementSystem.git
 
 🎓 Acknowledgment & Thank You
 
