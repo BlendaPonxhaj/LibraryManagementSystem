@@ -18,12 +18,12 @@ Key aspects include:
 - **Team Work:** Developers work on different modules, coordinate changes and contribute to a well-structured and maintainable system.
 
 ## **Core Features**
-- ? **Stores books in a file.** 
-- ? **User can load books from the file.**
-- ? **User can borrow books.**
-- ? **User can manage books.**
-- ? **User can log in.**
-- ? **Uses C++ language.**
+- **Stores books in a file.** 
+- **User can load books from the file.**
+- **User can borrow books.**
+- **User can manage books.**
+- **User can log in.**
+- **Uses C++ language.**
 
 ## Usage Example 💻
 
