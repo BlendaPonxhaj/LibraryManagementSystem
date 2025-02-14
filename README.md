@@ -28,7 +28,7 @@ Key aspects include:
 ## Usage Example 💻
 
 Below is an example of the Library Management System running in Visual Studio.
-![Library Management System in Visual Studio](Screenshot-1.png)
+![Library Management System in Visual Studio](Librarym/Screenshot-1.png)
 
 ## Project Implementation
 
