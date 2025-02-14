@@ -28,7 +28,7 @@ int main()
 		{
 
 		case 1:
-		{ // Save books
+		{ // Save book
 			int numBooks;
 			cout << "Enter the number of books to save: ";
 			cin >> numBooks;
